@@ -1,0 +1,20 @@
+// Variable styles
+//
+@import "abstracts/variables";
+
+// Mixins
+//
+@import "abstracts/mixins";
+
+// Global styles
+//
+@import "base/base";
+
+// Components
+//
+@import "components/header";
+@import "components/product-item";
+@import "components/product-list";
+@import "components/pagination";
+
+

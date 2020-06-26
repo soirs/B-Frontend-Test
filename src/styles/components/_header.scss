@@ -1,0 +1,16 @@
+.header {
+  background-color: var(--white);
+  border-bottom: 1px solid #e6e6e6;
+  color: var(--black);
+  max-width: 100%;
+  padding: 0 2rem;
+  height: 64px;
+  width: 100%;
+  text-align: center;
+  &__logo {
+    &-svg {
+      height: 64px;
+      max-width: 114px;
+    }
+  }
+}

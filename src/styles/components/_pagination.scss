@@ -1,0 +1,10 @@
+.pagination {
+  .page-item.disabled .page-link {
+    border-color: var(--white);
+  }
+  .page-link {
+    border-color: var(--white);
+    color: #010101;
+    font-size: .7rem;
+  }
+}
